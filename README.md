@@ -1,2 +1,1 @@
-# devProject
-DevPSU Fall 2020 Project
+This is the README file for my DevPSU project.
